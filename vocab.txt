@@ -1,0 +1,3 @@
+Benign = Not spreading through in the Boyd
+Malignant = spreading rapidly in the body
+Support vector = points near the boundary on a gray area, they are not fully benign or malignant and they are in between 
